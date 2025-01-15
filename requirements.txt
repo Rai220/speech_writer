@@ -1,0 +1,5 @@
+langchain
+langchain_gigachat
+langchain_community
+langgraph
+langchain_chroma
